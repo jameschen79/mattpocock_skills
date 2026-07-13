@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 node_modules
+=======
+.DS_Store
+>>>>>>> 7b5787a (Add GitIgnore File)
